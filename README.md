@@ -9,8 +9,10 @@ BrutForce Endponit with Wordlists (make wordlist or download wordlist from githu
 
 ...
 pip install tqdm
-pip install colorama
 
+
+pip install colorama
+...
 # Usage
 
 ```
