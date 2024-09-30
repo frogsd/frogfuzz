@@ -7,16 +7,14 @@ BrutForce Endponit with Wordlists (make wordlist or download wordlist from githu
 
 # requirements 
 
-...
-pip install tqdm
+```
+pip install tqdm colorama
 
-
-pip install colorama
-...
+```
 # Usage
 
 ```
- python frogfuzz.py 
+ python fuzzfrog.py 
 ```
 
 # contact me: 
